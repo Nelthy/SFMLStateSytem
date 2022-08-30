@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nelthy
+- 👀 I’m interested in ...Game
+- 🌱 I’m currently learning ...Physic ingine
+- 💞️ I’m looking to collaborate on ... Physic ingine
+- 📫 How to reach me ... doctor.vdavis@gmail.com
